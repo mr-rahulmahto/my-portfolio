@@ -29,6 +29,8 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import coding from './assets/company_logo/coding.png';
 import internshala from './assets/company_logo/internshala.jpg';
 import hmbt from './assets/company_logo/hmbt.jpg';
+import LT from './assets/company_logo/LT.png';
+import DCA from './assets/company_logo/DCA.png'
 
 // Education Section Logo's
 import PTU from './assets/education_logo/PTU.png';
@@ -166,6 +168,56 @@ export const SkillsInfo = [
         "Material UI",
       ],
     }, 
+    {
+      id: 3,
+      img: coding,
+      role: "Python",
+      company: "Coding Seekho",
+      date: "August 2023 - December 2023",
+      certificate:"https://drive.google.com/file/d/1EE7ZHDGdHXN92dXoyAF3_okvXwLiNJWw/view?usp=sharing", // Replace with actual certificate link and Sometime ypu remove link
+      desc: "Python Developer with strong knowledge of programming fundamentals, problem-solving, OOP concepts, automation, and backend development. Passionate about building efficient and scalable applications using modern technologies.",
+      skills: [
+        "Python",
+      ],
+    }, 
+       {
+      id: 4,
+      img: LT,
+      role: "Machine Learning",
+      company: "Larsen & Toubro",
+      date: "January 2024 - March 2024",
+      certificate: "https://drive.google.com/file/d/1AXVRHJw_el6IgSLd0FeAKP0ggOnORz7s/view?usp=sharing", // Replace with actual certificate link and Sometime ypu remove link
+      desc: "Completed learning on Machine Learning Fundamentals by Larsen & Toubro, covering core concepts such as data preprocessing, supervised learning, model training, and basic AI techniques.",
+      skills: [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Scikit-learn",
+        
+      ],
+    },
+    {
+      id: 5,
+      img: DCA,
+      role: "Dimpola of Computer Application",
+      company: "The Computer Insitute",
+      date: "January 2022 - March 2023",
+      certificate: "https://drive.google.com/file/d/1yzDsljiJK469TCpG_Di7z7rm0qHr0jBv/view?usp=sharing", // Replace with actual certificate link and Sometime ypu remove link
+      desc: "Learned basic concepts of MS Office tools (Word, PowerPoint, Excel), HTML, Networking, and Photoshop including presentation design, spreadsheet management, web development fundamentals, and image editing.",
+      skills: [
+        "MS Office",
+        "MS Power point",
+        "MS Excel",
+        "PageMaker",
+        "PhotoShop",
+        
+        
+      ],
+    },
+
+    
     // You can add more experiences in the same format as above. Just make sure to update the id, img, role, company, date, desc, and skills fields accordingly.
   //     {
   //     id: 3,

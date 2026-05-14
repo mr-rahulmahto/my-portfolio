@@ -246,7 +246,7 @@ export const SkillsInfo = [
       img: PTU,
       school: "IKG Punjab Techenical University, Jalandhar",
       date: "August 2023 - June 2027",
-      grade: "7.9 CGPA",
+      grade: "8.35 CGPA",
       desc: "I completed my Bachelor's degree in Computer Science (B.Tech) from  Punjab Techincal University, Jalandhar. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at Punjab Technical University allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Technology - B.Tech (Computer Science)",
     },
